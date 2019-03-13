@@ -1,1 +1,1 @@
-# reims-1018-java-retro
+# Reims Java (octobre 2018 - promo Chronos)
